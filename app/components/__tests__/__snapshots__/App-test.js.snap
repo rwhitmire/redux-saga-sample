@@ -1,0 +1,14 @@
+exports[`test App should render 1`] = `
+<div
+  className="appClassName">
+  <div>
+    <img
+      src="test-file-stub" />
+  </div>
+  <button
+    onClick={[Function]}>
+    reload
+  </button>
+  <ul />
+</div>
+`;
